@@ -1,1 +1,1 @@
-This repo contains the machine learning projects I have worked on so far
+This repo contains my machine learning and deep learning projects
